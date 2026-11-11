@@ -56,4 +56,4 @@ if ($NativeChecks) {
     & $baobaoIntegrationExe 2>&1 | Tee-Object -FilePath (Join-Path $baobaoTestLogs 'NativeChecks.log')
     if ($LASTEXITCODE -ne 0) { throw 'NativeChecks 检查失败。' }
 }
-Write-Output '所选自动检查均已通过。真实鼠标手势、拖放和显示效果仍需在解锁桌面后检查。'
+Write-Output '所选自动检查均已通过。真实鼠标手势、拖放和显示效果需另行实机验收。'
