@@ -1,0 +1,325 @@
+{
+  "version": 1,
+  "frameDirectory": "assets/frames",
+  "summary": {
+    "frameCount": 44,
+    "expectedFrameCount": 44,
+    "complete": true,
+    "missingIndices": []
+  },
+  "frames": [
+    {
+      "index": 0,
+      "path": "assets/frames/baobao-frame-00.png",
+      "width": 362,
+      "height": 362,
+      "sha256": "ae9457b16d152ac58da153bdf570ac0d8d8b95641de6f2b5cf000c7ff7fb5636"
+    },
+    {
+      "index": 1,
+      "path": "assets/frames/baobao-frame-01.png",
+      "width": 362,
+      "height": 362,
+      "sha256": "cef4426ed09c2ee849872f745526b59512ee6ed5ac8f90ec3fad2a3efda92409"
+    },
+    {
+      "index": 2,
+      "path": "assets/frames/baobao-frame-02.png",
+      "width": 362,
+      "height": 362,
+      "sha256": "668a8b851d4f4226852fc35091257c811ab7ba92e0d9e538c9264bd0d4fd5359"
+    },
+    {
+      "index": 3,
+      "path": "assets/frames/baobao-frame-03.png",
+      "width": 362,
+      "height": 362,
+      "sha256": "312461d4a9d40700687f9433213af604622fe0a62415531622e689f4831537b3"
+    },
+    {
+      "index": 4,
+      "path": "assets/frames/baobao-frame-04.png",
+      "width": 362,
+      "height": 362,
+      "sha256": "b3317ebd33e53c8080e4bc38bd4290fe763312968fbc03cc7fe45233e3526a65"
+    },
+    {
+      "index": 5,
+      "path": "assets/frames/baobao-frame-05.png",
+      "width": 362,
+      "height": 362,
+      "sha256": "32979046556df55be3cb9a5f2c934e1ffd4b84eb5cf8391798b14ba7487fe6dd"
+    },
+    {
+      "index": 6,
+      "path": "assets/frames/baobao-frame-06.png",
+      "width": 362,
+      "height": 362,
+      "sha256": "5df4aeac213d720db8647c821fab9882e5358e5d89626a34cedd4d75a24f8dae"
+    },
+    {
+      "index": 7,
+      "path": "assets/frames/baobao-frame-07.png",
+      "width": 362,
+      "height": 362,
+      "sha256": "144689dc21fe00ab39e22551626b8e289b1d2dc2194796201796a76c7cc45856"
+    },
+    {
+      "index": 8,
+      "path": "assets/frames/baobao-frame-08.png",
+      "width": 362,
+      "height": 362,
+      "sha256": "ff713d0f0b5945223d66fa967ffe3e52b2124477b683cf35f5d3a91889459f4b"
+    },
+    {
+      "index": 9,
+      "path": "assets/frames/baobao-frame-09.png",
+      "width": 362,
+      "height": 362,
+      "sha256": "a843a06532a50c342fde8c9013822f1fdb6379ad8ce15c3ced230dee3d48f35c"
+    },
+    {
+      "index": 10,
+      "path": "assets/frames/baobao-frame-10.png",
+      "width": 362,
+      "height": 362,
+      "sha256": "47c886997592b2c79f23abde2111a80cb06f1fd9d87f69935e5f353a7f4713ac"
+    },
+    {
+      "index": 11,
+      "path": "assets/frames/baobao-frame-11.png",
+      "width": 362,
+      "height": 362,
+      "sha256": "5382462552b85edba07123f3c8e254f06e0f91140b330d76503e728945392e1b"
+    },
+    {
+      "index": 12,
+      "path": "assets/frames/baobao-frame-12.png",
+      "width": 444,
+      "height": 444,
+      "sha256": "308c6369ebc2fc44ef72b3b97bd6168f110bcb84570f864fd112bbfba5b5f560"
+    },
+    {
+      "index": 13,
+      "path": "assets/frames/baobao-frame-13.png",
+      "width": 444,
+      "height": 444,
+      "sha256": "b451af66652dcab9d55825c013477cd458101ce712d0670fc496b7bea8967305"
+    },
+    {
+      "index": 14,
+      "path": "assets/frames/baobao-frame-14.png",
+      "width": 444,
+      "height": 444,
+      "sha256": "b01f75d7fc46110ed6cac8b76b8c6b785eb8715b7e113c2e47e956ccd723f042"
+    },
+    {
+      "index": 15,
+      "path": "assets/frames/baobao-frame-15.png",
+      "width": 444,
+      "height": 444,
+      "sha256": "32465d6b1ecd3e8889c2521754664b82fcbfb47ddaa52a11bbb43cc4eb3c8bd8"
+    },
+    {
+      "index": 16,
+      "path": "assets/frames/baobao-frame-16.png",
+      "width": 444,
+      "height": 444,
+      "sha256": "f8e5e31ddef4035bee07d370304d790131626fe6fc02e48d233c996156d52385"
+    },
+    {
+      "index": 17,
+      "path": "assets/frames/baobao-frame-17.png",
+      "width": 444,
+      "height": 444,
+      "sha256": "efb32f8d7bc8a19b9dc6340cff2fe06fefb6027656482fcc9d010a6be6d198b8"
+    },
+    {
+      "index": 18,
+      "path": "assets/frames/baobao-frame-18.png",
+      "width": 444,
+      "height": 444,
+      "sha256": "45fcea161d58fc1a8541b98c8362a10111035e09cf79beca37f51ba6e01cc3c4"
+    },
+    {
+      "index": 19,
+      "path": "assets/frames/baobao-frame-19.png",
+      "width": 444,
+      "height": 444,
+      "sha256": "ce9392a318f7949d036ed8a4cc78cc7880c0c816d0a069713b70bb7fcbfa3908"
+    },
+    {
+      "index": 20,
+      "path": "assets/frames/baobao-frame-20.png",
+      "width": 314,
+      "height": 314,
+      "sha256": "d79d63de26ead852dc450a4be8a6c280968be80825ce7396f65c7aaa27215916"
+    },
+    {
+      "index": 21,
+      "path": "assets/frames/baobao-frame-21.png",
+      "width": 314,
+      "height": 314,
+      "sha256": "a7d926097840157ed78e52a4f68adcd44f5de4d7169d2c9dd76e03ce4aa89865"
+    },
+    {
+      "index": 22,
+      "path": "assets/frames/baobao-frame-22.png",
+      "width": 314,
+      "height": 314,
+      "sha256": "048041d3638e4615f0e9f18700afd46982552d2e44a22505977aff2a3aae6962"
+    },
+    {
+      "index": 23,
+      "path": "assets/frames/baobao-frame-23.png",
+      "width": 314,
+      "height": 314,
+      "sha256": "af253c1bad757ccbf8b2221cc56ef8f11808f90e9a3181371d919b325fd1b1e5"
+    },
+    {
+      "index": 24,
+      "path": "assets/frames/baobao-frame-24.png",
+      "width": 314,
+      "height": 314,
+      "sha256": "0fe0109891ce29ee855490ccf92bc7a644e5e502d02eac67c2ccc2bf21fc9c8f"
+    },
+    {
+      "index": 25,
+      "path": "assets/frames/baobao-frame-25.png",
+      "width": 314,
+      "height": 314,
+      "sha256": "fd54b55ddc6fab3ac42a5d80c2a581b96df2a4673b8e5d812ec9d98988d06a2b"
+    },
+    {
+      "index": 26,
+      "path": "assets/frames/baobao-frame-26.png",
+      "width": 314,
+      "height": 314,
+      "sha256": "b6eed489424b55f665f968f97385800d852711a55e3ace87e4432c7b292e1eeb"
+    },
+    {
+      "index": 27,
+      "path": "assets/frames/baobao-frame-27.png",
+      "width": 314,
+      "height": 314,
+      "sha256": "8dcbd961865d3cce56fd8a6765f388f847a49d12ae0becf5fbd379dc2a61b601"
+    },
+    {
+      "index": 28,
+      "path": "assets/frames/baobao-frame-28.png",
+      "width": 444,
+      "height": 444,
+      "sha256": "8ec7f3966bf0be5ceabd31070471b65805c5053cce161e32980477209a9596c2"
+    },
+    {
+      "index": 29,
+      "path": "assets/frames/baobao-frame-29.png",
+      "width": 444,
+      "height": 444,
+      "sha256": "aa9e8af8307b72b99fbab3d5260b9c58858582dd517a64d842e516a36d9ebfb0"
+    },
+    {
+      "index": 30,
+      "path": "assets/frames/baobao-frame-30.png",
+      "width": 444,
+      "height": 444,
+      "sha256": "f33167a648b6048aa1c3efd7840dbb3e4acfca368115a65719589340429b85a1"
+    },
+    {
+      "index": 31,
+      "path": "assets/frames/baobao-frame-31.png",
+      "width": 444,
+      "height": 444,
+      "sha256": "d4d96a7de3879265e885f7ea5bd7e2a5aed72e78fddfa5d1efab5a92f063011c"
+    },
+    {
+      "index": 32,
+      "path": "assets/frames/baobao-frame-32.png",
+      "width": 444,
+      "height": 444,
+      "sha256": "dc8ca21c37416761467f64247b0951645712d190f038fecd285db6804bcae4c9"
+    },
+    {
+      "index": 33,
+      "path": "assets/frames/baobao-frame-33.png",
+      "width": 444,
+      "height": 444,
+      "sha256": "bb0e70c3d023c95f106550c3686a4adfc79326b11a41c4d1b31f488757298e4e"
+    },
+    {
+      "index": 34,
+      "path": "assets/frames/baobao-frame-34.png",
+      "width": 444,
+      "height": 444,
+      "sha256": "0e1f6b8e3340c8e6b348fb05ac29209d02ffef996db81812d08eb887499536a2"
+    },
+    {
+      "index": 35,
+      "path": "assets/frames/baobao-frame-35.png",
+      "width": 444,
+      "height": 444,
+      "sha256": "737ce932b8555c8efd5c3bb4781c890f7960062c92641b9b208b9cc602d495e7"
+    },
+    {
+      "index": 36,
+      "path": "assets/frames/baobao-frame-36.png",
+      "width": 444,
+      "height": 444,
+      "sha256": "1a83e00a05e0ebafd37dfa54b7dc2a2a3f37a09b5e03b6023c64645710e5c242"
+    },
+    {
+      "index": 37,
+      "path": "assets/frames/baobao-frame-37.png",
+      "width": 444,
+      "height": 444,
+      "sha256": "a9772f7e14c42a7daeb0e78f1504612dbd7606e6cc511241625537bed2ec78fb"
+    },
+    {
+      "index": 38,
+      "path": "assets/frames/baobao-frame-38.png",
+      "width": 444,
+      "height": 444,
+      "sha256": "514277ebb9ed5afa8ab0c598949003c91a7f82210125418bc52f291063ff922c"
+    },
+    {
+      "index": 39,
+      "path": "assets/frames/baobao-frame-39.png",
+      "width": 444,
+      "height": 444,
+      "sha256": "9214b775dbde8d0d9f80dbe0a146bdd16b6425036afb505987958a9dce6ccfd7"
+    },
+    {
+      "index": 40,
+      "path": "assets/frames/baobao-frame-40.png",
+      "width": 444,
+      "height": 444,
+      "sha256": "c8b6c49580732257416ee4dd9fd3fff6f7b830a5bd30fce16fae8f547d1e3349"
+    },
+    {
+      "index": 41,
+      "path": "assets/frames/baobao-frame-41.png",
+      "width": 444,
+      "height": 444,
+      "sha256": "67d687bc3a271c588fae94daa69f2ca40a5b9f6b4523bf26414fdd1be22a9dca"
+    },
+    {
+      "index": 42,
+      "path": "assets/frames/baobao-frame-42.png",
+      "width": 444,
+      "height": 444,
+      "sha256": "f62c31fcea0afd88a6dc9a239b3bf7e3b71a51cb74294b64ac91ae4cbd1d1921"
+    },
+    {
+      "index": 43,
+      "path": "assets/frames/baobao-frame-43.png",
+      "width": 444,
+      "height": 444,
+      "sha256": "000bce0eb0ba9ac71b3c7ebdd7445c6afbf07f628982cfbd748f3527f229a83f"
+    }
+  ],
+  "notes": [
+    "原始真实猫照片未包含。",
+    "抚摸使用frame00底板、frame02局部闭眼及实时头颈/耳尾/呼吸参数，20至23作为参考资源保留。",
+    "待机与抚摸尾尖共用原像素连续变形，补全板仅用于耳部。"
+  ]
+}

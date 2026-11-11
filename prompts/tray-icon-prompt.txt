@@ -1,0 +1,10 @@
+包包头像图标｜内置image_gen生成，2026年11月11日
+
+参考：已经确认的frame00包包外观，只作为角色身份参考。
+用途：Windows系统托盘与应用图标，透明背景，16/20/24/32/40/48/64/256像素。
+提示词：以已确认的10岁成年暹罗猫包包为原型，单个正面头部头像。保留大头骨比例、深色海豹巧克力面罩与耳朵、灰褐外颊、浅蓝杏眼、黑鼻及平静成年表情。半写实、简化成清楚色块和少量立体明暗，小尺寸可辨；耳朵完整，居中，四周留透明安全边。外轮廓有克制的浅灰米色细缘，以适应深浅托盘背景。不画身体、碗、爪子、项圈、饰物、圆底、方底、文字或水印，不做幼猫比例。
+
+生成原画：baobao-tray-v1.png。ICO由原画机械缩放和格式封装，保留透明度；已使用Windows/.NET原生图标读取检查各尺寸及透明边角。
+
+实际英文提示词：
+Use case: logo-brand. Asset type: one Windows notification-area/system-tray application icon for 包包, an existing semi-realistic desktop cat companion. Input image 1 is CHARACTER IDENTITY REFERENCE ONLY: the approved BaoBao cat. Create a SINGLE compact front-facing cat HEAD icon, not a full-body pet or a scene. Preserve BaoBao's adult 10-year-old Siamese identity: large broad head, distinctive dark seal/chocolate face mask and ears, warm grey/taupe outer cheeks, almond pale blue eyes, black nose, dignified relaxed expression. Keep the reference's face proportions and muted coat colours; no kitten proportions. Style: beautifully simplified semi-realistic painted emblem, broad clean colour areas, subtle dimensional shading, crisp readable silhouette and large clearly separated pale-blue eyes. This must remain recognizable at 16, 20 and 32 pixels, so eliminate fine fur detail and hairline whiskers. Both ears fully visible, centered symmetrical composition with a little natural character, head fills about 86 percent of the square with safe transparent margins. Add a restrained warm light-grey edge to the outer ear/cheek silhouette so it reads on both dark and light Windows taskbars. Transparent background, clean alpha, no circular badge, no tile, no text, no lettering, no collar, no accessories, no bowls, no paws, no body, no watermark, no tiny decorations. Output exactly one square finished icon.

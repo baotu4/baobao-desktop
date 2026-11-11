@@ -1,0 +1,11 @@
+bin/
+obj/
+tests/bin/
+tests/logs/
+tests/drop-router-test/
+tests/render-output/
+main-integration-fixtures/
+*.user
+verification-events.log
+*.pdb
+.vs/

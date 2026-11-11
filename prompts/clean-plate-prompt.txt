@@ -1,0 +1,19 @@
+包包待机细节 v0.2：耳尾遮挡补全板
+生成方式：内置 image_gen 图像工具。
+原始frame00：outputs/baobao-animation-v1/frames/baobao-frame-00.png。
+最终呈现的脸、毛色和身体使用原图像素；此板仅填补耳尾移开后的遮挡区域。
+
+完整提示词：
+Use case: precise-object-edit.
+Asset type: INTERNAL CLEAN BODY PLATE for a layered 2.5D desktop cat animation rig, not the final assembled character.
+Input image 1 is the approved exact 362x362 resting frame of Baobao. Edit it surgically while preserving the whole square canvas, subject placement, scale, lighting, face identity and coat colors.
+
+ONLY make two removals needed for separate animated layers:
+1. Hide/remove the TWO external ear pinnae, leaving a natural rounded short-furred top-of-head/temple underpainting where their bases normally attach. The ears are separate rig layers that will be overlaid later; do not show any detached ears. Keep the eyes, eyelids, eye spacing, forehead facial mask below the attachment line, nose, muzzle, whiskers and the rest of the head exactly as in the input.
+2. Hide/remove the wrapped dark tail along the lower-right/front of the cat. Underpaint the small previously occluded lower haunch/belly/rear-paw regions naturally; where the tail previously lay on empty ground, leave true transparency. The tail will be reattached as an animated separate layer later. Keep front paws and both bowls exactly positioned and unchanged.
+
+REGISTRATION IS CRITICAL: same square frame proportions, identical fixed front three-quarter camera, no zoom, no recentering or new pose. Preserve the original body silhouette except those tiny underpainted zones, its large frame, fat brown body and relatively slender legs. Keep the original food bowl on the front-right of the blue-gray water bowl, with identical bowl centers, sizes, contents and contact shadows.
+COLOR LOCK: original muted brown/taupe chest, smoky brown body, dark seal mask; no orange saturation, no cream brightening, no stylistic embellishment. Preserve short close-lying fur, not fluffy fur. Do not beautify or change age/expression.
+This plate will ONLY be sampled under the ear and tail attachment/movement areas. Every unrelated pixel region should remain visually identical to the reference.
+Output one genuinely transparent RGBA cutout body plate, clean natural alpha edges. Ignore/remove the input's nearly transparent red/yellow matte residue. No backdrop, floor, base, outlines, labels, detached components, extra cats, extra bowls, text, collars or watermark.
+

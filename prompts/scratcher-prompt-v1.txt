@@ -1,0 +1,20 @@
+Use case: identity-preserve / stylized-concept.
+Asset type: production desktop-pet animation sprite atlas, transparent PNG.
+Input image 1: approved low-resolution animation frame, reference for Baobao identity and rendering style. Input image 2: approved high-resolution identity reference; use it to preserve his face and fur colors, NOT its food/water bowls.
+
+Generate exactly EIGHT frames in a perfectly regular FOUR-COLUMN by TWO-ROW grid. Each cell is square, same dimensions, same camera, same scale and lighting. Aim for a landscape 2048x1024 canvas with eight 512x512 cells, no gutters, no cell outlines, no labels or text. Read cells left-to-right, then top-to-bottom. This must be an actual sequence of visibly different anatomical poses, NOT eight identical product images.
+
+Identity lock: Baobao is the same mature ten-year-old male seal-point Siamese cat in both references: large frame and a very plump round body, relatively slimmer legs, broad face, clear dark seal/charcoal facial mask spanning forehead/nose/cheeks/muzzle, natural muted blue-gray eyes, low-saturation taupe-brown short close fur, darker ears/paws/tail/hindquarters, lighter beige chest. Avoid orange/golden fur, pale washed-out mask, huge kitten eyes, thin modern Siamese body, long skinny neck, cartoon face or plush toy texture. Preserve his approved head-to-body proportion and natural short dense fur.
+
+Toy: exactly ONE low horizontal rectangular corrugated cardboard scratching board inside a plain low light-wood frame. Same board geometry, dimensions, fixed screen position and perspective in ALL EIGHT cells. The board is at the front-left and the cat is behind/right of it, so his forepaws can actually reach and touch its corrugated top. Camera fixed at the approved gentle front three-quarter view, no floor/background plane, no bowls, no plants, no other objects. Keep the entire cat including ears/tail/paws, and the entire board, within every cell with a small transparent safety margin. Ground/contact plane at the same image height in every cell. Board width roughly half the cat body width; low enough for comfortable mature-cat scratching.
+
+Cell 1 (global frame28): prepared neutral seated pose close behind/right of the board, both forepaws on the ground, relaxed ears and curled tail.
+Cell 2 (global frame29): naturally lean the upper body forward toward the board, place both forepaws onto its corrugated surface, hindquarters supported on the ground.
+Cell 3 (global frame30): the cat's anatomical LEFT forepaw pulls back in a scratch along the cardboard while RIGHT forepaw supports him on the board. Paw pads/claws make clear physical contact, no floating limb.
+Cell 4 (global frame31): alternate: anatomical RIGHT forepaw pulls back scratching, LEFT forepaw supports him. Visibly different paw placement from cell3.
+Cell 5 (global frame32): extend the LEFT foreleg forward along the board to reset the scratch; other forepaw stays supported. The body lengthens only slightly, retain his round mature-cat mass.
+Cell 6 (global frame33): extend the RIGHT foreleg forward along the board; alternate grounded weight support naturally.
+Cell 7 (global frame34): release and retract the forepaws toward his chest/ground, head and shoulders rising toward seated posture; all limbs remain plausible and supported.
+Cell 8 (global frame35): return to the SAME neutral seated placement as cell1, forepaws on the ground next to the board, ready to loop.
+
+Anatomical invariants: one head, two ears, two forelegs, two hind legs, one tail; natural occlusion may hide a limb but NEVER duplicate paws/tails. Do not merge paws into the board. Maintain stable board placement across all cells. Motions are slow, adult-cat, modest and grounded, with clearly alternating forepaws. No humans or hands, no motion lines, no sparkles, no glow, no writing, no borders, no watermark. TRUE transparent alpha background, not a painted checkerboard, white or gray backdrop. Only soft minimal contact shadows close to the cat and toy.

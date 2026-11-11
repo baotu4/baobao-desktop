@@ -1,0 +1,20 @@
+Use case: identity-preserve / stylized-concept.
+Asset: transparent production desktop-cat animation atlas.
+Reference 1 is approved animation frame00. Reference 2 is approved high-resolution Baobao identity. Omit all food/water bowls.
+
+Exactly EIGHT distinct keyframes in a perfectly regular FOUR-COLUMN by TWO-ROW grid, equal square cells, landscape 2048x1024 preferred, no gutters/borders/labels/text. Reading order left-to-right, top-to-bottom. Fixed front three-quarter camera, orthographic-like framing, unchanged scale/light/ground height across all eight cells. Entire cat and entire tower always inside every cell, no cropping. The cat remains the same physical size through the entire climbing sequence, no shrinking at the top.
+
+Baobao identity: mature ten-year-old male seal-point Siamese, LARGE bone structure and VERY PLUMP ROUND body, relatively slimmer legs, broad face, continuous dark seal/charcoal face mask, natural muted blue-gray eyes, low-saturation taupe-brown short dense fur, darker hindquarters/ears/paws/tail, beige chest. Never make him thin, orange, kitten-like or a plush toy.
+
+Toy geometry MUST BE IDENTICAL in every cell: one LOW simple cat tower with a natural light-wood circular base, ONE thick vertical cylindrical sisal-wrapped post, ONE small but cat-supporting circular top platform. NO extra levels, stairs, ladders, hammock or dangling ball. Base is fixed near lower-left/center at about x35%, y90%; top platform at x35%, y56%; base width about42% of a cell, platform width about36%, post diameter about9%. The cat's neutral sitting height about48% of a cell, so he can sit atop the low tower without cropping his ears. Cat initially sits immediately to its right, ground at y92%. Keep exact tower position/geometry in all eight cells, even during occlusion.
+
+Frame36 cell1: neutral seated Baobao beside the tower on its RIGHT, all paws grounded.
+Frame37 cell2: reaches forepaws onto sisal post/top edge while hindpaws remain firmly on base/ground; body leans up naturally.
+Frame38 cell3: climbing MIDWAY along the low post, front paws gripping higher, hind paws gripping lower post/base; at least three believable support contacts, no levitation, no extra limbs.
+Frame39 cell4: front paws and chest reach the top platform, hind paws still pushing/gripping upper post. Clear transfer of weight, not a jump.
+Frame40 cell5: fully seated calmly on the small top platform, four paws/butt supported, round body same size as on ground, head and ears fit with transparent margin, one relaxed tail hanging naturally beside platform.
+Frame41 cell6: careful BACKWARD descent, forepaws holding top edge while hindpaws step down to lower post, torso supported close to post. Do not leap or fall, do not point head straight down in an impossible pose.
+Frame42 cell7: completes descent with all paws on ground beside base, body settling in place.
+Frame43 cell8: SAME neutral seated position beside tower as cell1, ready to loop.
+
+No floor/background plane, no bowls, humans/hands, motion arrows, sparkles, light dots, writing or watermark. TRUE transparent alpha background, no white/gray painted background or checkerboard. Natural semi-realistic short fur and rough sisal/wood, soft minimal contact shadows. Each cat has exactly one head, two ears, two forelegs, two hind legs, one tail; natural occlusion allowed. Cat must physically touch and support itself on the SAME tower, not merely float above a static product image. Clearly distinct grounded climbing poses, not eight repeats.

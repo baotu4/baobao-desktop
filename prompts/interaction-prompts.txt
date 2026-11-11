@@ -1,0 +1,64 @@
+包包 V1.0｜新增互动动作提示词
+生成方式：内置 image_gen 图像工具。
+角色参考：用户确认的包包 v3 外观及旧版 frame00。原始真实照片仍保留在用户桌面，未包含在交付源码中。
+
+一、抚摸与陪玩动作图集：
+只使用最终图集中第8–15格作为global frame20–27；上半喝水初稿未采用。
+Use case: identity-preserve / stylized-concept.
+Asset type: production action atlas for Baobao, the same approved semi-realistic 2.5D desktop cat.
+Input 1 = EXACT CAMERA/COMPOSITION/BASELINE reference, resting frame00, including the two bowls. Input 2 = high-resolution approved identity/color reference of the same cat; use for face proportions, coat and fur fidelity only, not bowl layout.
+Preserve Baobao's mature face, muted blue-gray almond eyes, deep continuous dark seal facial mask, low-saturation tan/taupe chest, smoky brown plump body, dark rear and tail, large skeletal frame and slender legs. Short close-lying fur, no orange/gold recoloring, no fluffy white bib, no kitten eyes.
+
+OUTPUT: one genuinely transparent square sprite atlas, EXACTLY FOUR COLUMNS and FOUR ROWS = SIXTEEN equal square cells, read left to right then top to bottom. Each cell shows exactly one complete cat and the SAME two fixed bowls. No printed labels/numbers/grid/borders. Small transparent gutters inside each cell. Identical camera, scale, lighting, body identity, ground baseline and normal resting position across the whole sheet. Full ears, tail, paws and bowls always fit within each cell.
+
+FIXED BOWL LAYOUT FROM INPUT 1: blue-gray WATER bowl on the far front-left, cream KIBBLE bowl immediately to its right, both in front-left of the cat. The water bowl is the LEFTMOST bowl. Keep both bowl centers, scale and contents in the same position in every cell. The drinking action must target WATER, not kibble. The cat may naturally lean neck and shoulders forward-left and make a minimal forepaw placement adjustment if anatomically needed to reach water; keep fat hindquarters anchored. No implausibly stretched neck or sliding entire body.
+
+ROW 1 — progressive DRINKING approach, four distinct poses:
+1. Turn head and eyes toward the LEFTMOST WATER bowl, calm ears, body remains seated.
+2. Naturally lean shoulders/neck forward-left, head halfway lowered toward water, muzzle passes above the nearby kibble without eating it.
+3. Head lowered, muzzle just above the WATER surface, nose centered over water, correct anatomy.
+4. Drinking pose with muzzle near water, tiny pink tongue briefly touching water, no exaggerated open mouth or splashes.
+
+ROW 2 — gentle lapping and return:
+5. Same low drinking pose, tongue retracted, small natural lower-jaw motion.
+6. Same low drinking pose, another tiny tongue lap, only a subtle head change, coherent face and mask.
+7. Lift the head halfway back from water, mouth closes, no dripping streams.
+8. Exactly return to input1 relaxed seated resting pose and forward gaze, ready to return to original frame00.
+
+ROW 3 — response to human cursor petting, no human hand drawn:
+9. Slightly raise the chin and soften the eyes, small anticipation of a head/cheek stroke.
+10. Eyes comfortably closed/half-closed, head leans a few degrees toward screen-left as if enjoying a gentle cheek stroke; ears remain natural, not flattened.
+11. Corresponding small lean toward screen-right with relaxed closed eyes, not a large head sway. Same head scale and neck length.
+12. Gently reopen eyes and bring head close to exact resting baseline. Keep body, front paws, tail and bowls still throughout this row.
+
+ROW 4 — playful attention to a moving virtual light point; no light point drawn:
+13. Eyes/head calmly attend to a point low in front of the cat toward SCREEN-LEFT; both front paws grounded.
+14. Same attention, lift and extend the SCREEN-LEFT front paw a short distance toward a point in the air just above/in front of the paws. The other front paw supports the cat; keep paw anatomy believable. Do not strike bowls.
+15. Eyes/head attend to a corresponding point toward SCREEN-RIGHT, both front paws back on ground.
+16. Lift and extend the SCREEN-RIGHT front paw a short distance toward that point; opposite paw grounded. A restrained seated batting gesture, no jumping, no standing upright, no extra legs.
+
+Animation constraints: distinct usable key poses, smooth small anatomical progression, no changing breed/age/face between cells, no moving or vanishing bowls, no background or floor, no duplicate limbs, no cropped features, no captions, no watermark, no collar, no detached body parts, no human hands or drawn mouse cursor. Natural calm mature cat, not frantic/aggressive, no pinned ears or vigorous tail lashing.
+
+二、最终喝水图集（2列4行，global frame12–19）：
+Use case: identity-preserve / stylized-concept.
+Asset: DRINKING ONLY animation atlas for the same Baobao desktop cat.
+Input 1 = approved resting character, exact camera, scale, coat palette and bowl positions.
+Input 2 = real photo of Baobao drinking; reference for physically natural bent-neck drinking and head/shoulder posture, not its room/background or camera.
+
+Output ONE transparent sprite sheet, EXACTLY TWO COLUMNS and FOUR ROWS = EIGHT equal square cells, tall overall aspect ratio 1:2, ordered row-major. Same fixed scene in all cells. No text, grid, borders or numbers.
+
+CRITICAL TARGET: WATER is the LEFTMOST blue-gray bowl, approximately x=0.10 of each cell width and y=0.83 height. Kibble is in the cream bowl to its RIGHT at x=0.28. In drinking poses the cat's NOSE and TONGUE must be DIRECTLY ABOVE THE CENTER OF THE LEFTMOST WATER SURFACE, approximately x=0.10, NOT BETWEEN THE BOWLS and NOT touching kibble. Keep BOTH bowls fixed in identical locations. Do not exchange bowls or colors.
+To reach this leftmost water bowl, let the cat naturally turn its head toward screen-left and lower the neck/shoulders diagonally forward-left. The top/back and side of the bent head may be more visible; the face can naturally be partly hidden by the WATER rim. Do not force the cat to stare at camera while drinking. A small supporting forepaw adjustment is allowed if anatomically necessary. Hindquarters remain seated/grounded. No impossible stretched neck.
+
+Eight poses:
+1. Turn head/eyes left toward WATER, normal seated body.
+2. Neck and shoulders lean naturally forward-left, head halfway down, front legs support the weight.
+3. Muzzle reaches just above the CENTER of WATER, head angled down and left, nose clearly well left of kibble.
+4. Gentle lap: tiny tongue touching the blue-gray WATER surface, head over WATER center, no tongue at cream bowl.
+5. Same low drinking posture with tongue retracted, only small jaw motion.
+6. Another tiny lap with tongue touching WATER only, same head position; 4/5/6 form a restrained lapping cycle.
+7. Head halfway raised back, mouth closed, original face proportions emerge.
+8. Return exactly to the approved seated baseline with both paws grounded.
+
+Preserve Baobao's exact mature individual face, dark mask, muted blue-gray eyes, low-saturation brown/taupe coat, dark rear/tail, large frame, round fat body, slender legs, short dense fur. No bright orange or cream recoloring, kitten face or fluffy chest. All ears/tail/paws/bowls remain inside each cell; same camera/scale and ground baseline. Genuine alpha transparency, no scenery/floor/base, no detached parts, no people, no duplicate legs, no labels/watermark.
+

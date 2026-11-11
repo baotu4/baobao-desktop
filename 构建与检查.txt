@@ -1,0 +1,13 @@
+包包 V1.0 源码
+
+build.ps1：用Windows系统.NET Framework编译器生成bin/Baobao.exe，无NuGet和外部运行库。
+Run-Tests.ps1：运行待机、动作、玩具路由、渲染与24小时加速模拟的自动检查。
+Run-Tests.ps1 -NativeChecks：另运行隐藏Main集成检查；此项会回收它自己新建的测试文件，不操作其他回收站条目。
+tests内的结果输出、fixture和二进制已列入.gitignore；不要把它们当作产品素材。
+
+assets/frames为44个动作关键帧，idle-clean-plate仅用于活动耳部下方遮挡填补；尾尖使用原像素连续变形。
+prompts记录内置image_gen美术提示词；真实原始猫照片未打入本包。
+toy-manifests为玩具声明与图片示例；主用户请直接拖外层“玩具”文件夹中的PNG。
+
+此目录为GitHub源码仓库根；运行包与源码按版本发布，构建输出和测试产物不提交。
+2026年11月11日本机核心交互及最终尾部修正已完成验收，正式版已启动；覆盖与结果以外层自查记录、验收状态为准。自动检查不能代替真实鼠标操作验收。
